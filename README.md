@@ -11,7 +11,11 @@
 
 <h3 align="left">About Me</h3>
 
-<p>That go-to Web Developer with expertise in backend systems, automation scripts, tools, and microservices (APIaaS). I also handle frontend (UI/UX) development and build PWAs. Big on optimization, cost-cutting, and making sure stacks I work with, run with speed, security, and stability.</p>
+<p><b>I'm a fullstack web developer who actually cares.</b> Need to launch new ideas, upgrade existing platforms, build tools and services, showcase your brand, or fix the problems slowing you down? <b>I've got you</b>.</p>
+
+<p>I bring <b>3+ years</b> of hands-on experience, with a strong focus on <b>security</b>, <b>speed</b>, and <b>stability</b>.</p>
+
+<p>I'm <b>solution-driven</b>, passionate about clean engineering, and always building with intention.</p>
 
 <h3 align="left">Languages & Tools</h3>
 
@@ -61,4 +65,4 @@
 </div>
 
 
-> <sub>If you've found my repo helpful, you could [nominate me for GitHub Star](https://stars.github.com/nominate/) `@victoryosiobe`</sub>
+> <sub>If you've found my repos helpful, you could [nominate me for GitHub Star](https://stars.github.com/nominate/) `@victoryosiobe`</sub>
