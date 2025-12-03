@@ -17,6 +17,12 @@
 
 <p>I'm <b>solution-driven</b>, passionate about clean engineering, and always building with intention.</p>
 
+<div>
+<a href="http://victoryosiobe.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of victory osiobe" /></a>
+<a href="mailto:myvicosy@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email victory osiobe (myvicosy@gmail.com)" /></a>
+</div>
+
+
 <h3 align="left">Languages & Tools</h3>
 
 <div>
