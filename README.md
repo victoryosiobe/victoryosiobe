@@ -43,8 +43,9 @@
 ![Vite](https://img.icons8.com/fluency/48/vite.png)
 ![Git](https://img.icons8.com/color/48/git.png)
 ![GitHub](https://img.icons8.com/sf-black/64/github.png)
-![Vercel](https://img.icons8.com/ios-filled/50/vercel.png)
 ![Telegram](https://img.icons8.com/fluency/48/telegram-app.png)
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
 
 </div>
 
