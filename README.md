@@ -11,11 +11,11 @@
 
 <h3 align="left">About Me</h3>
 
-<p><b>I'm a software engineer who actually cares.</b> Need to launch new ideas, upgrade existing platforms, build tools and services, showcase your brand, or fix the problems slowing you down? <b>I've got you</b>.</p>
+<p><b>I'm that software engineer that actually cares.</b> Need to launch new ideas, upgrade your existing platforms, build tools and services, fix problems slowing you down? <b>You'll need me</b>. But, uhmm, if it's not worthwhile, sorry, you do not need me.</p>
 
-<p>I bring <b>3+ years</b> of hands-on experience, with a strong focus on <b>security</b>, <b>speed</b>, and <b>stability</b>.</p>
+<p>I bring <b>3+ years</b> of hands-on experience, with a focus on <b>security</b>, <b>speed</b>, and <b>stabilityyyy</b>.</p>
 
-<p>I'm <b>solution driven</b>, passionate about clean engineering, and always building with intention.</p>
+<p>I can use anything, but I use Linux by the way. 😏</p>
 
 <div>
 <a href="http://victoryosiobe.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of victory osiobe" /></a>
