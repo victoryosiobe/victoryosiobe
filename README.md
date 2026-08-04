@@ -11,9 +11,11 @@
 
 <h3 align="left">About Me</h3>
 
-<p><b>I'm that software engineer that actually cares.</b> Need to launch new ideas, upgrade your existing platforms, build tools and services, fix problems slowing you down? <b>You'll need me</b>. But, uhmm, if it's not worthwhile, sorry, you do not need me.</p>
+<p><b>I'm that software engineer that actually cares.</b> Need to computerize ideas? Design architectures? Improve on your existing platforms? Build pipelines, tools and services? <b>You'll need me</b>. But, uhmm, if it's not worthwhile, sorry, you do not need me.</p>
 
-<p>I bring <b>3+ years</b> of hands-on experience, with a focus on <b>security</b>, <b>speed</b>, and <b>stabilityyyy</b>.</p>
+
+<p>I bring <b>3+ years</b> of hands-on experience, with a focus on <b>security</b>, <b>speed</b>, <b>scalability</b>, and <b>stabilityyyy</b>.</p>
+
 
 <p>I can use anything, but I use Linux by the way. 😏</p>
 
