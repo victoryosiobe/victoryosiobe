@@ -9,9 +9,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=victoryosiobe&style=for-the-badge&abbreviated=true)&nbsp;
 [![GitHub victoryosiobe](https://img.shields.io/github/followers/victoryosiobe?style=social)](https://github.com/victoryosiobe)&nbsp;
 
-<h3 align="left">About Me</h3>
+<h3 align="left">About this dude</h3>
 
-<p><b>I'm that software engineer that actually cares.</b> Design architectures? Build pipelines, tools and services? <b>You may need me</b>, however, if it's not worthy enough, sayonara!</p>
+<p><b>I'm that software engineer that actually cares.</b> Design architectures? Build pipelines, tools and services? <b>You may need me</b>. However, if it's not worthy enough, sayonara!</p>
 
 <p>I use Arch, btw. 😏</p>
 
@@ -67,6 +67,7 @@
 <img alt="Victory's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victoryosiobe&show_icons=true&layout=compact&hide_title=true&hide_border=true&theme=github_dark" />
 </div>
 
+**Learning is rocky, but we do it anyway.**
 
 > <sub>If you've found my repos helpful, you could [nominate me for GitHub Star](https://stars.github.com/nominate/) `@victoryosiobe`</sub>
 
